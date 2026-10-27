@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  base: "/mod8-deployments/",
+  base: "/mod8-deployments-af2o.vercel.app/",
   plugins: [tsConfigPaths(), checker({ typescript: true }), react()],
   resolve: {
     alias: {
