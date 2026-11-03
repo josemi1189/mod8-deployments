@@ -22,7 +22,9 @@
 6. Podemos comprobar el proceso de despliegue en el apartado `Deployments`.
    ![Configuración del projecto](docs/deploy.jpg)
 
----
+> En el apartado `Settings > Functions > Functions Region` podemos comprobar y modificar la región o regiones (según plan contratado) donde se deben ejecutar las funciones y despliegue de la aplicación y optimizar latencia, rendimiento y redundancia.
+
+![Configuración del projecto](docs/region.jpg)
 
 ## Desplegar en Render de forma manual
 
